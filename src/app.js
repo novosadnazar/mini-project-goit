@@ -1,7 +1,7 @@
 const formEl = document.querySelector(".search-form");
 const listEl = document.querySelector(".gallery");
 const btnLoadEl = document.querySelector(".btn-load");
-
+//coments
 const API_KEY = "53251288-0c39733b1864ffef8bb63504c";
 const PER_PAGE = 12;
 let page = 1;
